@@ -1,4 +1,4 @@
 # The-World
 My first repository
 
-like football and chocolate
+like football, chocolate, and being active
