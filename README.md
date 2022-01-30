@@ -6,4 +6,5 @@ I learned that Github is the main staple site for coders and producers. I also l
 # Information system components
 I use my car almost everyday and it is a Information system that store all data when being used. This system uses data from the acceleration of the vehicle to the engine itself. the data from the car can help people create and benefit from the results of the car. the car also help other IT object/Machines benefit from its data being tranfered. some things that benefit ar gas pumps, stop lights, and many more.
 # Git Hub
+On the client-side it was more private and runs on a clients or users device. while on the server-side you create code for online servers/websites behind the scenes and usually focus on creating the websites content unlike client-side who usually work on visual effects.
 # Conclution
