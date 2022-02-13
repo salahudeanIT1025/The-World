@@ -1,5 +1,6 @@
 # Executive Summary
-In the 2nd lab of the year we learned and talked about how useful and needed hardware components of a computer are. The components we talked about were hard drives, solid state memory drives, RAM, 32-bit paths, 64-bit paths, ALU, CU, CPU, Logic gates and Circuits. The third step was all about binary function and decimal conversion. What I learned was that latency and disk transfer rates are different things that affect your computer in different ways. 
+In the 2nd lab of the year we learned and talked about how useful and needed hardware components of a computer are. The components we talked about were hard drives, solid state memory drives, RAM, 32-bit paths, 64-bit paths, ALU, CU, CPU, Logic gates and Circuits. The third step was all about binary function conversion, decimal conversion, and Hexadecimal . What I learned was that latency and disk transfer rates are different things that affect your computer in different ways. This lab was very informative when learning about hardware.
+
 
 # Hardware
 Hard Drives and Memory:
