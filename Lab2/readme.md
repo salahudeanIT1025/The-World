@@ -26,3 +26,9 @@ IEEE stands for the Institute of Electrical and Electronics Engineering. They ar
 
 # Data Representation
 # Numeric Conversation
+
+A.  
+Decimals can be any number using ten digits, that would mean using numbers 0-9. Binary numbers represent numbers using two digit 0-1. A hexadecimal number represents any number using ten digits and six characters. 
+
+B.  
+
