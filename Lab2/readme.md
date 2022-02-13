@@ -1,3 +1,6 @@
+# Executive Summary
+In the 2nd lab of the year we learned and talked about how useful and needed hardware components of a computer are. The components we talked about were hard drives, solid state memory drives, RAM, 32-bit paths, 64-bit paths, ALU, CU, CPU, Logic gates and Circuits. The third step was all about binary function and decimal conversion. What I learned was that latency and disk transfer rates are different things that affect your computer in different ways. 
+
 # Hardware
 Hard Drives and Memory:
 
@@ -36,5 +39,7 @@ The representation of a #ab00ff in a RGB color space, hex #ab00ff is composed of
 B.   
 This color would not be problematic when considering accessibility in websites. This text would be acceptable with a good background contrast of gray. You must make sure the background doesn’t mix with the text like a gray text with a black background would not work.
 
+# Conclution
+Lab 2 showed me many things that I did not know. I learned why latency and disk RPM is a major component in a hard drive and in a computer and how every hardware component matters. I really liked how all of lab two was straight forward and didn’t talk about stuff that had nothing to do with the main topic of lab 2. I also learned how to convert binary numbers to decimals and the other way around. 
 
 
