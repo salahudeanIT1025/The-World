@@ -29,6 +29,12 @@ IEEE stands for the Institute of Electrical and Electronics Engineering. They ar
 
 A.  
 Decimals can be any number using ten digits, that would mean using numbers 0-9. Binary numbers represent numbers using two digit 0-1. A hexadecimal number represents any number using ten digits and six characters. 
+# Hexadecimal Color Representation
+A.  
+The representation of a #ab00ff in a RGB color space, hex #ab00ff is composed of 66.1% red, 0% green, and 100% blue.
+
+B.   
+This color would not be problematic when considering accessibility in websites. This text would be acceptable with a good background contrast of gray. You must make sure the background doesn’t mix with the text like a gray text with a black background would not work.
 
 
 
