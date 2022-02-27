@@ -15,3 +15,4 @@ Python pseudocode is more like an algorithmic representation of the code involve
 
 B.    
 A program written in a compiled language like C or C++ is converted from the source language i.e. C or C++ into a language that is spoken by your computer (binary code) using a compiler with various flags and options. Internally, Python converts the source code into an intermediate form called bytecodes and then translates this into the native language of your computer and then runs it. 
+# Career Exploration
