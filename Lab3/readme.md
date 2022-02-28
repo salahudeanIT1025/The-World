@@ -1,5 +1,5 @@
 # Executive Summary
-
+In the 3rd lab of the year we learned and talked about how software, Operating systems, and Application software is useful and how its developed. We also taklked about the diference between virtualization and cloud computing. we also talked about the python, career exploration, and learned about co-op partnerships/internships and how there beneficial. We also learned about many sites that can further your learning like the Bureau of Labor Statistics and Cirtifications. In all I think this lab was the most difficult of the 3 we've done.
 # Software
 A.  
 i. Software is created by developers through the process of programming and without software, the hardware would not be functional. Operating systems manage the hardware and create the interface between the hardware and the user. an example of an operating system would be Microsoft Windows. Application software performs specific tasks such as word processing, accounting, database management, video games, or browsing the web. Utility software helps users configure, analyse, optimise and maintain a computer.
@@ -7,7 +7,7 @@ i. Software is created by developers through the process of programming and with
 ii. the ERP software stands for Enterprise Resource Planning and is a system that was developed to bring together an entire organization within one program. ERP software utilizes a central database that is implemented throughout the entire organization. one example of a ERP is Microsoft.
 
 B.  
-Data virtualization is an approach to data management that allows an application to retrieve and manipulate data without requiring technical details about the data. In Virtualization, a user gets dedicated hardware while in Cloud computing multiple hardware devices provide one login environment for the user.
+Data virtualization is an approach to data management that allows an application to retrieve and manipulate data without requiring technical details about the data. In Virtualization, a user gets dedicated hardware while in cloud computing multiple hardware devices provide one login environment for the user.
 
 # Virtualization
 B.  
@@ -50,3 +50,4 @@ Industry Associations / Student Organizations
 C.   
 The IEEE is the world's largest technical professional organization for the advancement of technology. IEEE and its members inspire a global community through its highly cited publications, conferences, technology standards, and professional and educational activities and I want to be apart of that community. Its main purpose is to advance technology for the greater benefit of humanity.
 # Conclution
+I would like to start of by saying hopefully I did most of this weeks lab right. The content was challenging and opened my mind to the possibilitys of software and IT paths. the thing i found most inrtresting was the Python and I personaly never knew something like that exists. I also ejoyed the virtulisation secttion as well.
