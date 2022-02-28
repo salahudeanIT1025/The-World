@@ -9,6 +9,12 @@ ii. the ERP software stands for Enterprise Resource Planning and is a system tha
 B.  
 Data virtualization is an approach to data management that allows an application to retrieve and manipulate data without requiring technical details about the data. In Virtualization, a user gets dedicated hardware while in Cloud computing multiple hardware devices provide one login environment for the user.
 
+# Virtualization
+B.  
+i. Virtualization allows you to use a physical machine’s full capacity by distributing its capabilities among many users or environments. Some problems that are solved with virtulization are Resource Distribution, VM Sprawl, Backward Compatibility, and Performance Monitoring just to name a few.  
+
+ii. Hypervisors separate the physical resources from the virtual environments—the things that need those resources to make virtualization possible. Hypervisors take your physical resources and divide them up so that virtual environments can use them.
+
 # Python
 A.  
 Python pseudocode is more like an algorithmic representation of the code involved. This means when a code is expected to be formulated it cannot be directly drafted. The code will need to be first generated into a Python pseudocode and then it needs to be formulated into an actual code.
