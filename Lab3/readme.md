@@ -37,7 +37,7 @@ pretty much the same as the first site, but a smig easier to handle and straight
 C.  
 Was about becoming certified information systems security professional and was kind of hard to look around. This wasnt my favorite cite of the bunch at all.
 
-6. the one that intrested me the most was the Data Analytics. 
+6. The one that intrested me the most was the Data Analytics. Data Analytics is a very useful job and the employees are very well paid.
 
 Co-ops / Internships:  
 To become co-op ready upload your resume for final revisions and approval by a Career Coach at Handshake
