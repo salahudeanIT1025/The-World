@@ -13,3 +13,5 @@ A function is a block of code which only runs when it is called. You can pass da
 
 IV.  
 The Integer, Floating-Point, and String Data Types ar the three data types. A data type is a category for values, and every value belongs to exactly one data type. Numbers with a decimal point, such as 3.14, are called floating-point numbers. stringers are the text values of a python program. a single quotation mark surounds your stringers. 
+# Graphics 
+Raster vs. Vector Graphics-   
