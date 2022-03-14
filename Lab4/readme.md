@@ -23,3 +23,6 @@ Lossy compretion have none of the advantages that lossless compretion does.
 
 File Formats-  
 JPEG works best for storing full-color images full of complex shading and color variation and allows the desighner to fine tune the amount of compretion used. PNG is mostly superior to GIF, as it is newer, supports more colors, and is free of patent restriction, but GIFs format allows for animated images. PNG cannot be used for animation, but offers highly sophisticated transparency and color support, among other features.
+
+File Properties-  
+I made a new iphone that i use quite alot actually. i used blue behind the iphone because its a color i associate with iphone and my iphones white so i went with the opposite instead. I only used 1 layer.
