@@ -1,3 +1,6 @@
+# Executive Summary 
+In lesson 4 I was taught many good skills. Some skills learned were python, command prompt, how to create directories and files, learned about shell file editor, variables, the three data types, and SVGGraphics. I really liked section 3- graphics. It felt more straight forward and I learned for the first time about Vectr. We also created logos for everyday items we use a lot. Hopefully most of the information was right and well done. 
+
 # Python IDLE
 D.  
 Python Shell is a command line tool that starts up the python interpreter. You can test simple programs and also write some short programs. However, in order to write a more complexed python program you need an editor. IDLE, on the other hand, has combined the above two needs and bundled them as a package
@@ -30,3 +33,5 @@ I made a new iphone that i use quite alot actually. i used blue behind the iphon
 
 II.  
 The file size is 141 KB (144,414 bytes). my image opens with google chrome and I think thats the best option because I feel like google chrome is more secure than Edge.
+# Conclution
+I feel like lesson 4 was harder to comprehend but taught me many good skills. Some skills learned were python, command prompt, how to create directories and files. I really liked section 3- graphics. It felt more straight forward and I learned for the first time about Vectr. This wasn’t my favorite unit but hopefully I did mostly everything correct. 
