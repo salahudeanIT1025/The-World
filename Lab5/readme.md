@@ -1,3 +1,6 @@
+# Executive Summary 
+We learned about lucid charts which were very straightforward and easy to use. Also talked about data transmission and many key terms to show how data is transmitted. Then I learned about data networks that had a few systems that were new to me. Then lastly we learned about cyber security and cryptology. I really dont have too much to say as most the info was very easy to read and do.
+ 
 
 # Lucidchart
 
@@ -54,3 +57,7 @@ Typing the final message is the same because the box has not changed so the encr
 # Brute-Force
 Brute force attack is when every possible decryption key is used for a cipher in an attempt to unlock it. It relates to Kerckhoffs's principle because even though they will try every method until it has been unlocked, a cipher should still be secure even if they have the key because the part of the cipher that keeps the message secret is the key itself.
 
+ # Conclusion 
+ In conclusion figuring out what each term was about and understanding it was a lot easier than the last lab. I really don’t have too much to say because everything was easy and straightforward. The website was cool and again not difficult to use. 
+ 
+ 
