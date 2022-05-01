@@ -13,4 +13,4 @@ ii.
 The constructor method is used to initialize data an it runs as soon as an object of a class is instantiated.
 
 iii.   
-Classes are useful because they allow us to create many similar objects based on the same blueprint. Classes make it possible to create more than one object following the same pattern without creating each one from scratch.
+Classes are useful because they allow us to create many similar objects based on the same blueprint. Classes make it possible to create more than one object following the same pattern without creating each one from scratch. Use inheritance to create child classes from a parent class.
