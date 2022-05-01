@@ -1,5 +1,6 @@
-
-# File Compression
+# Executive Summary
+This section wasnt too hard it and was short and sweet. we learned man y new techniques that most likely will be used in all our feilds we will be going into. we learned about file compression, the difference between JPEG and SVG, Object Oriented Programming, Unified Modeling Language, and last but not least how to create a class diagram.
+# File Compression 
 A.   
 It is a process in which the size of a file is reduced by re-encoding the file data to use fewer bits of storage than the original file.
 
@@ -21,3 +22,5 @@ OMG is an international, open membership, not-for-profit technology standards co
 
 ii.  
 The objest would be the name of the shark which is sammy because it represent an entity and the basic building block. The class would be shark because its the blue print of an object. The Abstraction would be swim(self) because its the behavior of a real world entity. The Encapsulation would be a specific type of shark because it said, mechanism of binding the data together and hiding them from outside world. The Inheritance would be the definition of a shark because it said, mechanism of making new classes from existing one.
+# Conclution
+This lab wasnt to hard to comprehend and was pretty easily done. i did have problems trying to create a JPEG for the first part of the lab though learned about Unified Modeling Language. UML was completly new to me so it was good fun doing it.
