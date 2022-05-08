@@ -1,5 +1,5 @@
 # Executive Summary
-
+this was a long and grueling section that took some brain power to complete. The main topics we learned was relational data, Big data, Structured Query Language, SQL Injections, Code of Ethics, and last but not least Intellectual Property Ethical and Legal Implications. you must know all these features and sub features to continue on into IT.
 
 # Relational Data
 
@@ -29,3 +29,4 @@ The importance and purpose of WIPO is that it serves as the global forum for IP 
 COPPA, FERPA, and HIPAA restrict the collection of information on the internet by hiding important details about a person or service such as source code to a program or service, and medical files to a person or hospital records. Basically any information that is deemed sensitive will most likely be protected by one of these three. 
 
 # Conclution
+This section was a toupher and longer section to say the least, but the amount you learnd in this section is almost overwhelming in a good way. The main topics we learned was relational data, Big data, Structured Query Language, SQL Injections, Code of Ethics, and last but not least Intellectual Property Ethical and Legal Implications. My personal favorite thing we learned about was the big data section where we learned about the sub catagories which were Data, Information, and Knowledge.
